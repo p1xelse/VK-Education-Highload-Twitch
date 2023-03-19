@@ -169,3 +169,25 @@ Percentage of the requests served within a certain time (ms)
  100%      6 (longest request)
 ```
 
+## Static server RPS with cpu-limit
+
+1 cpu - 120 rps
+
+2 cpu - 155 rps
+
+3 cpu - 145 rps
+
+4 cpu - 160 rps
+
+## nginx RPS with cpu-limit
+
+1 cpu - 500 rps
+
+2 cpu - 671 rps
+
+3 cpu - 800 rps
+
+4 cpu - 890 rps
+
+
+
